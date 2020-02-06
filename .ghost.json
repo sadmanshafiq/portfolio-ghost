@@ -4,7 +4,7 @@
     "contentApiKey": "8e7f4a22d438e001b927a7081f"
   },
   "production": {
-    "apiUrl": "sadmanportfolio:80:localhost:2368 serveo.net",
+    "apiUrl": "https://sadmanportfolio.serveo.net",
     "contentApiKey": "8e7f4a22d438e001b927a7081f"
   }
 }
